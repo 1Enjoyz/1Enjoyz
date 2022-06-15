@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 1Enjoy</h1>
-<h3 align="center">Istanbul, Turkey I'm in C#, C++, .NET, HTML5, CSS, Qt Creator, PHP, I'm dealing with.</h3>
+<h3 align="center">Turkey I'm in C#, C++, .NET, HTML5, CSS, Qt Creator, PHP, I'm dealing with.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1enjoyz&label=Profile%20Views&color=d400ff&style=flat" alt="1enjoyz" /> </p>
 
